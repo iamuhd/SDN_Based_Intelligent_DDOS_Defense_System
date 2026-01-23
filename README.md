@@ -95,5 +95,4 @@ The system follows a cyclic lifecycle: **Collect → Train → Defend → Visual
 
 **Course:** Computer Network (CMC261)
 
-## 📄 License
 This project was developed for academic purposes at Iqra University.
